@@ -1,4 +1,4 @@
 bower-pure
 ==========
 
-Pulling pure in with bower
+Pulling pure in with bower.
